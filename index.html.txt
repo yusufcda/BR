@@ -12,6 +12,8 @@
     <img src="img/image.jpg" width="300" alt="Yusuf Cida"/>
     <nav>
         <ul>
+            ÖZET
+            <li>
             <li><a href="#education">Eğitim</a></li>
             <li><a href="#skills">Yetenekler</a></li>
             <li><a href="#contact">Hobiler</a></li>
@@ -41,6 +43,8 @@
                 </li>
                 <li>
                     Futbol
+                </li>
+                    Badminton
                 </li>
             </ol>
         </section>
